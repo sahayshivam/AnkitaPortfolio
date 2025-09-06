@@ -78,8 +78,8 @@ Deploy the contents of the `build/` folder to your preferred hosting (GitHub Pag
 
 ## 🙋‍♂️ About Me
 
-Hi! I’m Ashmith Maddala, a passionate developer eager to showcase my work and connect with collaborators and employers.  
-Feel free to reach out via the [Contact](#) page or connect with me on [GitHub](https://github.com/ashmithhmaddala) and [LinkedIn](#).
+Hi! I’m Ankita Yankanchi, a passionate developer eager to showcase my work and connect with collaborators and employers.  
+Feel free to reach out via the [Contact](#) page or connect with me on [GitHub] and [LinkedIn](#).
 
 ---
 
