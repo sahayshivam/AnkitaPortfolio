@@ -89,7 +89,7 @@ const Socials = () => {
 			</div>
 
 			<div className="social">
-  				<a href="/public/Ankita_2025_Resume.pdf" download target="_blank" rel="noopener noreferrer">
+  				<a href="public/Ankita_2025_Resume.pdf" download target="_blank" rel="noopener noreferrer">
     				<div className="social-icon">
       					<FontAwesomeIcon icon={faFileAlt} className="social-icon" />
     				</div>
