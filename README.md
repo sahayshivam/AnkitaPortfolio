@@ -1,8 +1,8 @@
-# Ashmith Maddala – Personal Portfolio
+#Personal Portfolio
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and ways to connect with me. Built using modern web technologies, it is fully responsive and easy to customize.
 
-[Live Demo](https://ashmithmaddala.dev/)
+[Live Demo]()
 
 ---
 
